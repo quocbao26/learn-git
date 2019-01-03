@@ -1,5 +1,3 @@
 Hello TXT
-<<<<<<< HEAD
-asfsdgvdfg
-=======
->>>>>>> 05a258724d5e6c5f92abb9f575e631abfd2b944a
+
+
